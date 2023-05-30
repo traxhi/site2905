@@ -33,20 +33,20 @@
                 <br><button class="botaoler">Ler</button><br>
                 </a>
             </div>
-        <div class="item">
-            <img src="../imagens/ImagenG.png" class="img" width="90%" height="270px"><br>
-            Mente e Coração 
-           <a href="../itens&produtos/item.php">
-            <br><button class="botaoler">Ler</button><br>
-            </a>
-        </div>
-    <div class="item">
-        <img src="../imagens/ImagenG.png" class="img" width="90%" height="270px"><br>
-        Por Onde Você For
-        <a href="../itens&produtos/item.php">
-        <br><button class="botaoler">Ler</button><br>
-        </a>
-    </div>
+            <div class="item">
+                <img src="../imagens/ImagenG.png" class="img" width="90%" height="270px"><br>
+                Mente e Coração 
+                <a href="../itens&produtos/item.php">
+             <br><button class="botaoler">Ler</button><br>
+             </a>
+            </div>
+            <div class="item">
+                <img src="../imagens/ImagenG.png" class="img" width="90%" height="270px"><br>
+                Por Onde Você For
+                <a href="../itens&produtos/item.php">
+                <br><button class="botaoler">Ler</button><br>
+                </a>
+            </div>
     </div>
 
 </body>
