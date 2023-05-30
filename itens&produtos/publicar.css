@@ -13,8 +13,9 @@
     justify-items: center;
     width: 250px;
     height: 50px;
-    font-size: 35px;
+    font-size: 30px;
     margin-left: 42%;
+    font-weight: bold;
 }
 
 .caixa2 {
@@ -131,15 +132,15 @@ input {
     border-radius: 25px;
     height: 40px;
     width: 150px;
-    background-color: #5271FF;
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
     font-weight: bold;
     cursor: pointer;
+    text-decoration: underline;
 }
 
 .botao1:hover {
-    background-color: #3450C2;
+    color: #3450C2;
 }
 
 .envimg {
@@ -150,8 +151,8 @@ input {
     position: absolute;
     top: 90%;
     color: black;
-    width: 10%;
-    margin-left: 45%;
+    width: 15%;
+    margin-left: 52%;
     height: 35px;
     font-size: 18px;
     border: none;

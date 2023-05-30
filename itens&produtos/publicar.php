@@ -31,7 +31,7 @@
                         required>
                 </div>
                 <div class="caixa5">
-                    <textarea class="linha2" id="capitulo" name="texto" placeholder="Escreva sua obra aqui..."
+                    <textarea class="linha2" id="capitulo" name="texto" placeholder="Escreva seu primeiro capítulo aqui..."
                         wrap="hard" required maxlength="125000"></textarea>
                 </div>
             </div>
