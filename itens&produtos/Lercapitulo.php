@@ -12,6 +12,7 @@
     include("../principais/menu.html")
         ?>
     <br>
+    <div class="livro">Mente e Coração</div><br>
     <div class="capitulo">Capítulo 1</div>
     <br><br>
 
