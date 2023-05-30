@@ -20,7 +20,7 @@
         <div class="respostas" id="resposta"></div>
         <div class="botao">
           <input type="text" placeholder="Digite aqui..." id="mensagem" class="inputmsg" onkeypress="return searchKeyPress(event)">
-          <button type="submit" id="botao" onclick="Enviar();">↩</button Value="Search" >
+          <button class="enter" type="submit" id="botao" onclick="Enviar();">↩</button Value="Search" >
       </div>
     </div>
 

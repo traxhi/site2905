@@ -20,28 +20,28 @@
     <div class="produtos">
         <div class="itens1">
             <div class="item1">
-                <img src="../imagens/autor1.jpg" width="90%" height="300px">
+                <img src="../imagens/ImagenG.png" width="90%" height="300px">
                 Edin Nolat
                 <a href="../autor/biografia.php">
                     <button class="botaover">Ver</button>
                 </a>
             </div>
             <div class="item2">
-                <img src="../imagens/autor2.jpg" width="90%" height="300px">
+                <img src="../imagens/ImagenG.png" width="90%" height="300px">
                 Sarah Lee
                 <a href="../autor/biografia.php">
                     <button class="botaover">Ver</button>
                 </a>
             </div>
             <div class="item3">
-                <img src="../imagens/autor3.jpg" width="90%" height="300px">
+                <img src="../imagens/ImagenG.png" width="90%" height="300px">
                 Jonas Smith
                 <a href="../autor/biografia.php">
                     <button class="botaover">Ver</button>
                 </a>
             </div>
             <div class="item4">
-                <img src="../imagens/autor4.jpg" width="90%" height="300px">
+                <img src="../imagens/ImagenG.png" width="90%" height="300px">
                  Theo Jackson
                 <a href="../autor/biografia.php">
                     <button class="botaover">Ver</button>

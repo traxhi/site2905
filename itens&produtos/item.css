@@ -3,11 +3,11 @@
     text-align: right;
     font-weight: bold;
     margin-top: 5px;
-    color:#2D6D3D;
+    color: #2D6D3D;
 }
 
 .descricao {
-    font-size: 15px;
+    font-size: 13px;
     margin-top: 40px;
     text-align: center;
     font-weight: bold;
@@ -28,10 +28,14 @@
     margin-top: 0px;
 }
 
-.titulo
-{
-    font-size: 3em;
+.titulo {
+    font-size: 2.5em;
+    font-weight: bold;
+    width: 500px;
+    justify-content: center;
+    text-align: center;
 }
+
 button {
     color: rgb(255, 255, 255);
     width: 200px;
@@ -47,7 +51,7 @@ button {
 button:hover {
     background-color: #4d0fc1;
     cursor: pointer;
-    
+
 }
 
 .linha {
@@ -72,7 +76,8 @@ button:hover {
     border: 1px solid #ccc;
     border-radius: 5px;
     outline: 0;
-    
+    font-size: 13px;
+
 }
 
 .D1 {
@@ -80,22 +85,23 @@ button:hover {
     height: 500px;
     display: flex;
     justify-content: center;
-    align-items:center;
+    align-items: center;
     flex-direction: row;
 
 }
+
 .D3 {
     width: 250px;
     height: 10px;
     display: flex;
     justify-content: center;
 }
-.estrelas
-{
+
+.estrelas {
     margin-top: 5%;
     margin-left: 35%;
 }
-.estrela
-{
+
+.estrela {
     cursor: pointer;
 }

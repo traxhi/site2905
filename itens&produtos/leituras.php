@@ -28,17 +28,17 @@
     <div class="produtos">
         <div class="itens1">
             <div class="item1">
-                <img src="../imagens/livro3.png" width="90%" height="300px">
+                <img src="../imagens/ImagenG.png" width="90%" height="300px">
                 Artigo
                 <a href="../itens&produtos/item.php"><div class="botaoler">LER</div></a>
             </div>
             <div class="item2">
-                <img src="../imagens/livro2.png" width="90%" height="300px">
+                <img src="../imagens/ImagenG.png" width="90%" height="300px">
                 Manuscrito
                 <a href="../itens&produtos/item.php"><div class="botaoler">LER</div></a>
             </div>
             <div class="item3">
-                <img src="../imagens/livro1.png" width="90%" height="300px">
+                <img src="../imagens/ImagenG.png" width="90%" height="300px">
                 Texto
                 <a href="../itens&produtos/item.php"><div class="botaoler">LER</div></a>
             </div>

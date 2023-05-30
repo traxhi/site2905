@@ -39,9 +39,14 @@
     width: 98%;
     margin-left: 10px;   
 }
+
 .inputmsg
 {
     width: 95%;
     font-size: 16px;
-    
+    border-radius: 5px;
+}
+
+.enter{
+    border-radius: 5px;
 }

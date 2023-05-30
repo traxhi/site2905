@@ -18,12 +18,9 @@
             <div class="texto1">
                 <br><br>
                 Obrigada por assinar! <br> <br>
-                <div class="botao1">
-                    <button><a href="../itens&produtos/leituras.php">Biblioteca</a></button>
-                </div>
-                <div class="botao2">
-                    <button><a href="../itens&produtos/textos.php">Mais Textos</a></button>
-                </div>
+                <a href="../itens&produtos/leituras.php"><button class="botao2">Biblioteca</button></a>
+                <a href="../itens&produtos/textos.php"><button class="botao2">Mais Textos</button></a>
+
             </div>
         </div>
     </div>

@@ -25,7 +25,7 @@
                 <input type="text" id="txtBusca" class="email" name="email" />
                 <br> <br>
                 Senha <br> <br>
-                <input type="text" id="txtBusca" class="senha" name="senha" />
+                <input type="password" id="txtBusca" class="senha" name="senha" />
                 <br> <br>
             </div>
         </div>

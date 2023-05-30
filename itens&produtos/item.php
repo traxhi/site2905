@@ -16,19 +16,21 @@
     <div class="D1">
         <div class="D2">
             <div class="imagem2">
-                <img src="../imagens/imagem2.jpg" alt="imagem1" height="350" width="350">
+                <img src="../imagens/livro2.png" alt="imagem1" height="500" width="300">
             </div>
         </div>
         <div class="D3"></div>
         <div class="D2">
             <div class="titulo">
-                A Cidade de Plástico <br>
+                Mente & Coração <br>
                 <div class="tag">
-                    MANUSCRITO <br>
+                    ARTIGO <br>
                 </div>
                 <div class="descricao">
-                    A Cidade de Plástico conta a história de uma menina <br>
-                    que achava que vivia em um mundo encantado. <br>
+                    "Uma Exploração da Conexão entre o Cérebro e as Emoções." <br>
+                    O artigo investiga como as emoções podem afetar <br>
+                    a saúde física e mental. <br>
+
                     <br>
                 </div>
                 <div class="botao1">
@@ -41,7 +43,7 @@
                     <img onclick="Preencher('estrela4');" src="../imagens/star0.png" width="25px" class="estrela" id="estrela4">
                     <img onclick="Preencher('estrela5');" src="../imagens/star0.png" width="25px" class="estrela" id="estrela5">
                 </div>
-                <textarea class="linha2" id="comentario" name="comentario" placeholder="Adicione um Comentário" wrap="hard" maxlength="2500"></textarea>
+                <textarea class="linha2" id="comentario" name="comentario" placeholder="Adicione um comentário..." wrap="hard" maxlength="2500"></textarea>
             </div>
         </div>
     </div>
