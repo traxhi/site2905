@@ -13,10 +13,12 @@
     <?php
     include("../principais/menu.html")
         ?>
+     <div class="pedro" type="submit" onclick="goBack()">Voltar</div>
     <div class="pesquisa">
         <div class="barra"><input type="text" id="txtBusca" placeholder="Buscar..." maxlength="256" /><img
                 src="../imagens/Lupa.png" class="lupinha" height="30px"></div>
     </div>
+    <div class="pedro" type="submit" onclick="goBack()">Voltar</div>
     <div class="produtos">
         <div class="itens1">
             <div class="item1">
@@ -59,5 +61,10 @@
 
 </body>
 <script src="../java/animateto.js"></script>
+<script>
+function goBack() {
+    window.history.back()
+}
+</script>
 
 </html>
